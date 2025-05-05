@@ -1,9 +1,9 @@
 # Olá! Meu nome é Arthur Freitas 👋
 
-- 👨‍💻 Gosto muito de front-end
-- 🎓 Estudante de Desenvolvimento FUll-Stack
-- 📫 Contato: arthurhfreitas@icloud.com
--  📍 Recife
+- 👨‍💻 Apaixonado por desenvolvimento **back-end**
+- 💻 Estudante de **Desenvolvimento Full-Stack**
+- 📫 Entre em contato: [arthurhfreitas@icloud.com](mailto:arthurhfreitas@icloud.com)
+- 📍 Recife - PE, Brasil
 
 ## 🚀 Tecnologias que uso
 
@@ -14,8 +14,12 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+<div align="center">
+
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurhfreitass&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhfreitass&layout=compact&theme=radical)
+
+</div>
 
 ---
 
