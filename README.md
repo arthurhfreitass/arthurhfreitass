@@ -1,6 +1,6 @@
 # Olá! Meu nome é Arthur Henrique 👋
  
-- 👨‍💻 Apaixonado por desenvolvimento **back-end**
+- 👨‍💻 Foco por desenvolvimento **back-end**
 - 💻 Estudante de **Desenvolvimento Full-Stack**
 - 📫 Entre em contato: [arthurhfreitas@icloud.com](mailto:arthurhfreitas@icloud.com)
 - 📍 Recife - PE, Brasil
