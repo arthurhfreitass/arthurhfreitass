@@ -1,4 +1,4 @@
-# Olá! Meu nome é Arthur Freitas 👋
+# Olá! Meu nome é Arthur Henrique 👋
 
 - 👨‍💻 Apaixonado por desenvolvimento **back-end**
 - 💻 Estudante de **Desenvolvimento Full-Stack**
