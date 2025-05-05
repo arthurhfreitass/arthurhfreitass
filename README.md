@@ -1,5 +1,5 @@
 # Olá! Meu nome é Arthur Henrique 👋
-
+ 
 - 👨‍💻 Apaixonado por desenvolvimento **back-end**
 - 💻 Estudante de **Desenvolvimento Full-Stack**
 - 📫 Entre em contato: [arthurhfreitas@icloud.com](mailto:arthurhfreitas@icloud.com)
@@ -27,3 +27,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](arthur-henrique-853513252)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
+ 
