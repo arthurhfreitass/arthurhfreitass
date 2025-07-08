@@ -1,18 +1,19 @@
-<h1 align="center">Olá! Eu sou Arthur Henrique 👋</h1>
+<h1 align="center">Olá! Eu sou o Arthur Henrique 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Back-End</strong> | Estudante de <strong>Desenvolvimento Full-Stack</strong> <br>
+  💻 Desenvolvedor <strong>Back-End</strong> <br>
+  🎓 Estudante de <strong>Desenvolvimento Full-Stack</strong> <br>
   📍 Recife - PE, Brasil <br>
   📫 <a href="mailto:arthurhfreitas@icloud.com">arthurhfreitas@icloud.com</a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Arthur Henrique's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurhfreitass&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhfreitass&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurhfreitass&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhfreitass&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
 </p>
 
 ---
@@ -29,17 +30,22 @@
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-henrique-853513252" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/seuperfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:arthurhfreitas@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">🚀 Sempre aprendendo, evoluindo e criando novas soluções! 🚀</p>
+<p align="center">
+  🔥 Sempre buscando novos desafios e aprendizados!
+</p>
