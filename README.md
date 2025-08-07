@@ -28,9 +28,10 @@ I’m a **Back-End Developer** and Full-Stack student passionate about building 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurhfreitass&show_icons=true&theme=dark" alt="Arthur's GitHub Stats" style="width: 48%; min-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhfreitass&layout=compact&theme=dark" alt="Top Languages" style="width: 48%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurhfreitass&show_icons=true&theme=github_dark" alt="Arthur's GitHub Stats" style="width: 48%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhfreitass&layout=compact&theme=github_dark" alt="Top Languages" style="width: 48%; min-width: 300px;" />
 </div>
+
 
 ---
 
